@@ -20,7 +20,7 @@
 ## TECNOLOGIAS 
 <div align="center">
   
-  <h3>Frontend</h3>
+  <h3 >FRONTEND</h3>
   <table>
     <tr>
       <td align="center" width="100">
@@ -48,15 +48,15 @@
 </div>
 
 <div align="center">
-  <h3>Backend</h3>
+  <h3>BACKEND</h3>
   <table>
     <tr>
       <td align="center" width="100">
-        <span>Node.js</span><br>
+        <span>NODE.JS</span><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
       </td>
       <td align="center" width="100">
-        <span>Express.js</span><br>
+        <span>EXPRESS.JS</span><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
       </td>
     </tr>
@@ -64,15 +64,15 @@
 </div>
 
 <div align="center">
-  <h3>Tecnologías de Base de Datos</h3>
+  <h3>DATABASE</h3>
   <table>
     <tr>
       <td align="center" width="100">
-        <span>PostgreSQL</span><br>
+        <span>POSTGRESQL</span><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
       </td>
       <td align="center" width="100">
-        <span>Sequelize</span><br>
+        <span>SEQUELIZE</span><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40" />
       </td>
     </tr>
