@@ -3,9 +3,9 @@
 
 👋 ¡Hola! Soy Matias Ezequiel Golubeff. Tengo 22 años.
 
-📚 Egresado de [SoyHenry](https://www.soyhenry.com/) como Full Stack Developer.
-
 📍 La Plata, Buenos Aires - Argentina.
+
+📚 Egresado de [SoyHenry](https://www.soyhenry.com/) como Full Stack Developer.
 
 🔎 Soy extremadamente curioso, siempre estoy en búsqueda de aprender y crecer en este mundo de la programacion. 
 
