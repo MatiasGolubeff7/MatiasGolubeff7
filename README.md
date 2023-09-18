@@ -13,8 +13,6 @@
 
 👯 Disfruto trabajar en equipo.
 
-💻 Mi sueño es dedicarme por completo a esta disciplina, me fascina. 
-
 
 
 ## TECNOLOGIAS 
