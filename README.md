@@ -30,6 +30,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
       </td>
       <td align="center" width="100">
+        <span>JAVASCRIPT</span><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="CSS" width="40" height="40" />
+      </td>
+      <td align="center" width="100">
         <span>TAILWIND</span><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TAILWIND" width="40" height="40" />
       </td>
@@ -80,9 +84,12 @@
 
 
 
+
+
 ## PROYECTOS DESTACADOS 
 
 ### Oasis Hotel
+- **Sitio Web:** [Oasis Hotel](https://pffront40.onrender.com/)
 - **Repositorio:** [Oasis Hotel Repo](https://github.com/pf40a)
 - **Descripción:** Una página web para un hotel que permite a los usuarios hacer reservas en línea. Durante la ejecución de este proyecto, me desempeñé mayormente en el desarrollo del frontend, centrándome en la experiencia e interfaz del usuario. Esta experiencia me permitió afianzar mis habilidades en el diseño y en la gestión efectiva de datos para una funcionalidad óptima del proyecto.
 
